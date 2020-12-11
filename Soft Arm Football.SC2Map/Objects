@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectDoodad Id="1096508573" Position="168.1003,193.6682,7.9997" Rotation="5.131" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="638070368" Position="72.8876,150.2761,8" Rotation="1.3" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1233566489" Position="131.401,210.3835,14.9667" Rotation="0.8977" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="286296457" Variation="3" Position="126.613,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="551380601" Variation="3" Position="130.8635,229.9604,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="964910047" Variation="3" Position="126.629,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1442043226" Variation="6" Position="117.0942,138.0998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="448710065" Variation="6" Position="128.5642,180.4,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1399478072" Variation="3" Position="124.3371,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="264377231" Variation="6" Position="105.704,159.25,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="919228826" Variation="3" Position="123.6328,248.6687,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="824506376" Position="187.5825,129.3903,8" Rotation="4.7995" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1560826184" Variation="3" Position="127.9267,233.6477,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1020627345" Variation="3" Position="125.0673,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="46669463" Variation="3" Position="127.132,229.9604,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="120746153" Variation="3" Position="136.716,242.8835,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1888507069" Position="180.732,158.1381,8" Rotation="5.009" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="148852594" Variation="3" Position="126.6325,249.772,14.2053" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1442235528" Variation="3" Position="119.7915,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="871703912" Variation="3" Position="129.376,232.4482,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1161366166" Position="184.4936,100.3415,8" Rotation="4.4592" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="308756002" Variation="3" Position="129.3725,235.956,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1877296850" Variation="6" Position="140.0642,166.2998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1210352105" Position="79.5886,74.2641,8" Rotation="1.9111" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1023872968" Variation="6" Position="151.5051,88.7656,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="526247956" Variation="6" Position="117.0942,60.5498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="305673142" Variation="6" Position="140.062,187.45,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="54960234" Variation="3" Position="117.595,242.8933,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="21729429" Position="187.42,113.4006,8" Rotation="4.625" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1051580130" Position="113.0498,224.23,8" Rotation="0.2617" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1552287066" Position="78.6618,75.448,8" Rotation="1.9023" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1951805764" Variation="3" Position="125.87,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1367764419" Variation="6" Position="117.0942,180.4,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="462266572" Variation="3" Position="120.5993,246.2961,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="520913689" Variation="6" Position="105.702,138.0998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1410162136" Variation="4" Position="159.4658,140.2211,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="596469638" Variation="3" Position="139.7497,240.3913,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1932065245" Variation="1" Position="128.2775,245.497,13.3352" Scale="0.2,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1204487492" Position="77.7692,164.613,8" Rotation="1.2478" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1587025299" Variation="3" Position="159.4658,154.214,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1987998707" Variation="3" Position="127.4052,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="235189466" Variation="3" Position="135.9902,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1213808242" Variation="3" Position="127.4,249.7697,14.21" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1921967390" Variation="3" Position="116.0971,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1454340772" Variation="3" Position="126.4042,232.4375,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1840142975" Variation="3" Position="118.3137,242.8933,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2115002132" Variation="3" Position="125.6347,235.9453,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="113393654" Variation="1" Position="128.2775,235.9,10.0212" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1390006906" Variation="6" Position="140.062,74.65,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="674625573" Position="172.81,64.0205,8" Rotation="4.337" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="131336274" Variation="3" Position="130.6972,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1223729989" Variation="3" Position="119.8137,244.09,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1937520025" Position="148.1901,222.6235,8" Rotation="5.9165" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1134863235" Variation="1" Position="117.538,244.3857,12.3371" Rotation="5.707" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="313878112" Position="131.743,40.23,11.0468" Rotation="0.8977" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1446229490" Variation="3" Position="135.1921,244.0803,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2024290054" Position="68.2832,117.2824,8" Rotation="1.5705" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="829971470" Variation="6" Position="151.5051,67.6154,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="201661264" Position="84.9987,186.2802,8" Rotation="1.178" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1692898706" Variation="3" Position="131.668,235.956,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1219307531" Variation="3" Position="127.1542,234.8447,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1984314492" Variation="3" Position="128.638,234.8447,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1325948774" Variation="6" Position="151.5051,81.7155,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1428305657" Position="124.053,40.23,11.0468" Rotation="0.898" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="116851485" Variation="3" Position="137.4135,242.8835,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1598866576" Variation="3" Position="131.3723,248.6372,13.9545" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1560103556" Variation="3" Position="134.4213,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1308867121" Variation="3" Position="121.3237,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1718878239" Position="174.6274,176.2832,8" Rotation="5.07" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="307499716" Position="184.4936,145.039,8" Rotation="4.9653" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1842609507" Position="187.7553,124.0224,8" Rotation="4.7121" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="365516" Variation="3" Position="119.8298,245.2014,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1464815073" Variation="3" Position="126.5908,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="511515552" Variation="3" Position="138.1862,241.6838,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="839206879" Variation="6" Position="128.562,88.75,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="541747898" Variation="3" Position="135.9345,245.1916,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1190402235" Variation="3" Position="122.093,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1406835273" Position="176.4113,74.2641,8" Rotation="4.3718" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="326256565" Variation="3" Position="137.4543,240.3913,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1012585078" Variation="3" Position="122.1445,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1625475177" Variation="1" Position="225.8437,222.918,19.1198" Rotation="4.7121" Scale="1,1,1" Type="StarShipAdun_Giant_Walls">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="98696111" Variation="6" Position="105.702,102.8498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1183038524" Variation="6" Position="128.562,145.15,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="567244691" Variation="3" Position="135.978,241.6838,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="155828419" Position="171.934,61.583,8" Rotation="4.3283" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="40873793" Position="68.4174,114.6093,8" Rotation="1.658" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="158194339" Variation="3" Position="122.0861,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="239991502" Variation="6" Position="117.1584,47.9755,8.2697" Scale="1.5,3,1.5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1375372892" Position="126.6198,226.16,8" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="270789836" Position="76.0771,160.7617,8" Rotation="1.2651" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="378004047" Variation="3" Position="130.6428,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1182295149" Variation="3" Position="131.3696,247.4548,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1238301000" Variation="1" Position="132.332,231.0498,8.6701" Rotation="0.0212" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2083645521" Variation="3" Position="124.0732,234.834,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1512619740" Variation="4" Position="159.4658,112.214,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="462701145" Variation="3" Position="132.1704,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1489512478" Position="90.9787,200.988,8" Rotation="1.1257" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1591077975" Position="160.583,34.6462,8" Rotation="4.2324" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1392915615" Position="68.58,130.599,8" Rotation="1.4833" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1703909866" Position="183.1123,150.2761,8" Rotation="4.983" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1086259834" Variation="6" Position="105.702,109.9,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1947918763" Position="92.0541,203.445,8" Rotation="1.117" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1373212009" Variation="6" Position="151.5051,95.8154,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="500737175" Variation="3" Position="122.8784,249.772,14.2053" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1788593984" Variation="3" Position="124.3176,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1553165077" Position="123.6091,210.3835,10.95" Rotation="1.5705" Scale="0.3583,0.3583,3.5" Type="PortZionBarrel" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="205923615" Variation="3" Position="130.6181,249.7404,14.2072" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="285265827" Variation="3" Position="122.8852,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="357155106" Position="179.9228,84.619,8" Rotation="4.4067" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1919388627" Position="102.8398,220.42,8" Rotation="0.4707" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1259315533" Variation="6" Position="151.5051,102.8654,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="820717474" Variation="6" Position="151.5078,194.5192,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="7155799" Variation="6" Position="105.702,116.95,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1213207468" Position="98,217.6738,8" Rotation="0.5751" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1796503009" Variation="3" Position="129.9428,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1018550593" Position="186.47,137.1906,8" Rotation="4.9392" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="946203472" Variation="6" Position="117.0942,187.45,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1281691948" Variation="4" Position="97.538,138.7312,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1331921400" Variation="3" Position="133.632,249.7404,14.2072" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="897697405" Variation="3" Position="130.6413,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1264120899" Variation="3" Position="134.4133,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="932371272" Position="97.3823,97.705,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1065370163" Variation="6" Position="140.0642,152.2,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1525695361" Variation="1" Position="55.8232,240.428,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="1287850934" Variation="3" Position="121.3652,241.6936,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1285157457" Variation="1" Position="132.3317,234.16,9.74" Rotation="0.0217" Scale="0.1496,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="654652944" Variation="3" Position="126.3847,234.834,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1543306650" Variation="3" Position="124.051,229.9497,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2008231962" Variation="3" Position="130.7026,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1343144268" Variation="3" Position="116.7966,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1160362278" Variation="3" Position="135.191,245.1916,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1797298537" Position="80.4995,173.7104,8" Rotation="1.2216" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="863307995" Variation="1" Position="138.339,244.699,12.797" Rotation="0.5583" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1376686840" Variation="1" Position="136.6123,247.4733,13.8698" Rotation="0.5583" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2119023371" Variation="3" Position="132.9506,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="516833539" Variation="2" Position="203.58,235.022,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="1120314234" Variation="3" Position="135.2004,247.4655,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="929016244" Position="70.1535,105.5825,8" Rotation="1.8063" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="662427019" Variation="1" Position="141.3605,239.7148,10.8112" Rotation="0.5583" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1405954842" Variation="3" Position="116.0417,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1240702084" Variation="6" Position="117.0642,49.418,8.2697" Scale="1.5,3,1.5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1757775017" Variation="6" Position="140.062,67.5998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="146947811" Variation="6" Position="140.062,124,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="793192467" Variation="3" Position="127.379,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="620080977" Position="172.81,181.3603,8" Rotation="5.0874" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1112765179" Position="69.53,135.8098,8" Rotation="1.3437" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="2033882670" Variation="6" Position="128.562,131.0498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="421529784" Variation="5" Position="97.538,124.464,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="416312821" Variation="1" Position="139.1064,243.4758,12.3371" Rotation="0.5583" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1543746653" Variation="3" Position="129.9028,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1919874874" Variation="3" Position="120.596,245.2014,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1093071616" Variation="3" Position="133.6677,248.6372,13.9545" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="364608715" Position="75.268,85.8615,8" Rotation="1.8674" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1007272662" Variation="1" Position="128.2775,243.8618,12.797" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="496828473" Position="123.8698,226.0498,8" Rotation="0.0522" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1344272336" Variation="3" Position="138.9836,240.3913,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1703698716" Variation="6" Position="140.062,116.95,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1105470271" Variation="3" Position="131.36,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1700000160" Variation="3" Position="116.8454,241.6936,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="804221736" Position="85.9458,56.5903,8" Rotation="1.9721" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="140543044" Variation="1" Position="119.106,246.7805,13.3352" Rotation="5.707" Scale="0.2,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1846319942" Position="181.5502,89.8708,8" Rotation="4.4243" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="179469299" Position="187.0732,134.5603,8" Rotation="4.9304" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1863028978" Variation="3" Position="131.4157,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1451505267" Position="86.9187,189.8574,8" Rotation="1.1604" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="451180507" Variation="3" Position="125.8808,248.6687,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="892824357" Variation="6" Position="117.0942,152.2,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1889345151" Variation="3" Position="118.2846,244.09,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1963613408" Variation="3" Position="130.9147,233.6477,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1927597189" Variation="3" Position="132.9016,248.6372,13.9545" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1738034071" Variation="3" Position="124.3408,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1844662458" Variation="3" Position="116.8037,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="757517392" Variation="6" Position="117.0942,102.8498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1220097886" Variation="1" Position="137.4934,246.0698,13.3398" Rotation="0.558" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1411860508" Position="187.5825,115.9904,8" Rotation="4.625" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="104422402" Variation="6" Position="140.062,95.7998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1795794997" Position="175.5004,173.7104,8" Rotation="5.0612" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1824477125" Position="171.0012,59.1003,8" Rotation="4.3195" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="2057048813" Variation="3" Position="125.8178,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1853906529" Variation="3" Position="121.372,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1838516472" Variation="3" Position="135.9958,240.3913,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1694006252" Variation="3" Position="97.3381,96.2644,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1937629217" Variation="3" Position="136.7358,240.3913,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="580156012" Variation="3" Position="130.6848,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1542102716" Variation="6" Position="117.0942,88.75,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="654647723" Position="170.0541,56.5903,8" Rotation="4.3107" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1171476743" Position="77.7692,79.3867,8" Rotation="1.8935" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1616869315" Position="145.5734,223.4772,8" Rotation="5.969" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1191170998" Variation="3" Position="132.8813,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1611649952" Variation="6" Position="128.562,74.65,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="803030054" Variation="3" Position="133.699,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="84915544" Position="95.417,34.6462,8" Rotation="2.0505" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="714994858" Position="127.5332,210.3767,10.95" Rotation="1.5703" Scale="0.3583,0.3583,3.5" Type="PortZionBarrel" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="93986764" Position="170.0541,188.7902,8" Rotation="5.1137" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="962825030" Position="187.7167,118.6635,8" Rotation="4.7121" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1019556629" Variation="3" Position="124.3371,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="912909025" Variation="3" Position="117.5366,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="617750675" Variation="3" Position="134.463,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1131749403" Variation="3" Position="129.16,248.64,13.95" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1467631943" Variation="6" Position="151.5051,145.1655,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1842943995" Position="123.711,210.3837,11.0468" Rotation="0.898" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="259749114" Position="159.47,68.4201,7.9997" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1580640086" Variation="3" Position="127.9174,232.4482,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1260105086" Variation="3" Position="130.6828,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1608326219" Variation="6" Position="140.0642,180.4,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="655898432" Variation="3" Position="119.0537,241.6936,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1601759866" Position="69.53,108.19,8" Rotation="1.7976" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="192251929" Variation="3" Position="120.6062,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1913399936" Variation="3" Position="121.3652,246.2961,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="242386520" Variation="3" Position="131.6782,231.1557,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="882460533" Variation="1" Position="118.2668,245.5141,12.797" Rotation="5.707" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="955152370" Variation="6" Position="128.562,81.7,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="412890245" Variation="6" Position="128.562,124,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1827101408" Variation="3" Position="128.6538,235.956,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1472273725" Position="159.47,152.7685,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="925684511" Variation="6" Position="151.5051,187.4655,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1112168395" Variation="3" Position="120.5576,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="806963771" Variation="6" Position="151.5078,159.2692,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1975450348" Variation="3" Position="126.5837,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1704596774" Variation="3" Position="159.3156,97.988,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1675927409" Variation="3" Position="127.3984,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2077403359" Variation="3" Position="117.592,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="987586586" Variation="5" Position="159.4658,126.0632,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1231594389" Variation="6" Position="117.0942,124,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="83110068" Position="72.8876,93.7236,8" Rotation="1.8413" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="263705797" Position="88.8962,196.1176,8" Rotation="1.143" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1308927869" Variation="3" Position="127.1701,235.956,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1044305956" Position="137.55,225.473,8" Rotation="6.126" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1499211332" Variation="6" Position="117.0942,53.5,7.9" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1505435962" Position="84.066,61.583,8" Rotation="1.9545" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1170991718" Variation="3" Position="131.3613,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="58914585" Variation="3" Position="124.344,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="4981395" Variation="3" Position="129.1477,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1895431755" Variation="3" Position="122.888,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1486821140" Variation="3" Position="126.6325,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="755690389" Position="68.9267,133.1794,8" Rotation="1.3525" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="328735988" Position="68.4174,129.3903,8" Rotation="1.4833" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="62519844" Variation="1" Position="128.2775,237,10.4333" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1121589950" Variation="6" Position="128.562,95.7998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1314485816" Variation="3" Position="117.5854,241.6936,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1591479988" Variation="3" Position="118.2622,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1065938516" Position="83.19,179.9792,8" Rotation="1.1953" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="162936648" Variation="3" Position="129.188,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="362312368" Variation="3" Position="133.6567,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="40241315" Variation="3" Position="121.3691,247.4753,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1672521741" Position="97.538,125.9038,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1911517228" Variation="3" Position="129.1198,249.74,14.21" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1574822955" Variation="3" Position="125.087,249.772,14.2053" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1174193220" Variation="3" Position="122.1384,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1245260362" Variation="6" Position="105.704,194.5,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1518739925" Position="159.27,96.5524,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="756255400" Variation="1" Position="128.2775,238.17,10.8112" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1700489923" Variation="3" Position="132.945,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1753418433" Variation="3" Position="123.6184,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1570513452" Position="94.2973,208.2966,8" Rotation="1.0993" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="666870712" Variation="3" Position="121.3166,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1994010585" Variation="3" Position="131.681,233.6477,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1928055926" Variation="6" Position="151.5051,53.5156,7.9" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1512980448" Variation="1" Position="115.952,241.9565,11.3513" Rotation="5.707" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1052790333" Variation="3" Position="134.4228,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1259759096" Variation="3" Position="129.1381,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="615095282" Variation="3" Position="125.873,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="558707355" Variation="3" Position="125.8247,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1679472790" Variation="3" Position="127.1806,231.1557,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="738641832" Variation="3" Position="118.2553,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1642100713" Variation="6" Position="151.5051,60.5654,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1249919094" Position="167.1037,196.1176,8" Rotation="5.14" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="230321516" Variation="6" Position="105.702,81.7,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1336052563" Variation="3" Position="122.1347,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1086237601" Variation="2" Position="41.7622,239.5551,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="1958857425" Position="167.1037,49.263,8" Rotation="4.2846" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="659315775" Position="84.9987,57.7194,8" Rotation="1.9633" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1965251569" Position="187.42,131.9802,8" Rotation="4.7995" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="571847798" Variation="6" Position="140.0642,159.25,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="501929494" Variation="3" Position="127.3498,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1235477596" Position="107.8098,222.6235,8" Rotation="0.3664" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1512447486" Position="185.22,142.402,8" Rotation="4.9565" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1178403044" Variation="2" Position="52.4196,235.022,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="1762591289" Variation="3" Position="135.9262,246.2863,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="921549963" Position="182.3596,152.8974,8" Rotation="4.9914" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="604429491" Position="100.43,219.13,8" Rotation="0.5231" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="396417055" Variation="3" Position="130.7021,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="956192337" Variation="3" Position="125.8627,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1816932308" Variation="1" Position="116.8325,243.2846,11.881" Rotation="5.707" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="344101432" Position="78.6618,168.5517,8" Rotation="1.239" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="799491563" Variation="3" Position="124.2885,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="78316448" Variation="1" Position="123.246,228.2524,7.7077" Rotation="6.2614" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="800176175" Variation="3" Position="127.924,231.1557,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1682881252" Position="181.5502,155.5097,8" Rotation="5.0002" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="539394303" Variation="1" Position="140.5302,241.059,11.3513" Rotation="0.5583" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2097295126" Variation="3" Position="123.6184,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="736889544" Variation="3" Position="140.5151,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="743096354" Variation="1" Position="132.332,228.2524,7.7077" Rotation="0.023" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="128373579" Position="90.9787,43.0117,8" Rotation="2.0156" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1612241907" Variation="1" Position="30.156,222.918,19.1198" Rotation="1.5705" Scale="1,1,1" Type="StarShipAdun_Giant_Walls">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1648823544" Variation="3" Position="129.8781,249.7404,14.2072" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="682066896" Position="72.1611,96.3317,8" Rotation="1.8325" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="320304003" Position="68.2443,122.6372,8" Rotation="1.5705" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="485557053" Position="79.5886,169.7355,8" Rotation="1.2302" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="785850529" Variation="6" Position="105.702,74.65,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="980650492" Variation="3" Position="119.0051,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="738034069" Variation="3" Position="132.95,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2077988159" Variation="3" Position="123.6252,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2053743155" Variation="6" Position="105.702,67.5998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="653349738" Variation="3" Position="127.3566,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="634778615" Variation="3" Position="138.9831,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1245913622" Variation="6" Position="117.0942,159.25,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1343011340" Variation="3" Position="130.1352,233.6477,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1203558023" Variation="3" Position="122.8784,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="733429910" Variation="3" Position="119.7846,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1944882156" Position="81.3725,176.2832,8" Rotation="1.213" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1717672791" Variation="6" Position="128.562,138.0998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1192964585" Variation="6" Position="151.5051,116.9655,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="436335438" Variation="3" Position="116.0485,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1381706463" Variation="6" Position="151.5078,166.3193,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1262299964" Variation="6" Position="140.062,109.9,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1853803687" Variation="3" Position="120.603,247.4753,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1164903997" Position="97.538,154.1135,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="2094071393" Position="140.26,224.91,8" Rotation="6.0737" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1509580133" Variation="3" Position="125.8664,249.772,14.2053" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="443409254" Variation="3" Position="119.012,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1958399212" Variation="3" Position="129.2077,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="297591762" Variation="3" Position="122.8298,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1976566561" Position="71.5063,100.3415,8" Rotation="1.8237" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="279191274" Variation="3" Position="136.7302,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1659084366" Variation="3" Position="118.304,241.6936,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="890369182" Position="131.401,210.3835,11.0468" Rotation="0.898" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1425062084" Variation="1" Position="139.7653,242.3444,11.881" Rotation="0.5583" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="917196643" Variation="3" Position="124.0996,231.145,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="467919890" Variation="3" Position="134.431,247.4548,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1898615369" Variation="3" Position="126.6391,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1495861168" Variation="1" Position="132.332,229.7397,8.2202" Rotation="0.0212" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1272202343" Variation="3" Position="117.5437,239.2058,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1360950194" Position="162.843,39.4916,8" Rotation="4.2497" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1594094830" Variation="3" Position="120.5798,244.09,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="517516360" Variation="6" Position="128.562,116.95,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1808174998" Position="97.5415,182.225,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="486677175" Position="178.2307,79.3867,8" Rotation="4.3894" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="453060951" Variation="3" Position="125.619,234.834,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="297627911" Variation="3" Position="129.1464,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1366091275" Position="170.167,209.186,7.7797" Rotation="4.625" Scale="1,2,1" Type="DefendersCity_Wall_Municipal">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="495961180" Variation="3" Position="126.401,235.9453,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1002777693" Variation="6" Position="117.0942,109.9,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="558269615" Variation="6" Position="117.0942,81.7,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1041953586" Variation="3" Position="128.6157,229.9604,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1005093065" Variation="3" Position="125.6384,232.4375,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="151079456" Variation="1" Position="97.5415,180.7851,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="399702001" Variation="3" Position="127.8757,229.9604,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1242740229" Variation="3" Position="119.843,242.8933,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1839051913" Variation="3" Position="134.4826,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="267931186" Variation="1" Position="142.0634,238.6198,10.3498" Rotation="0.5583" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="194667890" Variation="1" Position="123.246,234.16,9.74" Rotation="6.2612" Scale="0.1496,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1107683928" Variation="3" Position="138.204,240.3913,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1599819578" Position="169.8942,216.346,7.7844" Rotation="4.7995" Scale="1,2,1" Type="DefendersCity_Wall_Municipal">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="436462121" Variation="6" Position="105.702,131.0498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="766621987" Variation="3" Position="132.122,248.6372,13.9545" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1384470716" Variation="6" Position="128.5642,152.2,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2048821099" Variation="3" Position="135.2521,240.3913,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="378731879" Variation="1" Position="115.0837,240.669,10.8112" Rotation="5.707" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="46503359" Variation="3" Position="132.931,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="191161595" Variation="3" Position="132.1711,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1270544329" Variation="6" Position="140.062,138.0998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="626655300" Position="183.8388,97.7126,8" Rotation="4.4504" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="2023919200" Position="134.84,225.8281,8" Rotation="6.1782" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1255166234" Variation="3" Position="124.0927,232.4375,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1109340463" Position="153.16,220.42,8" Rotation="5.8122" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1107720256" Variation="3" Position="132.866,249.7404,14.2072" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="809225902" Variation="3" Position="126.647,248.6687,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="163051937" Variation="6" Position="117.19,44.9877,8.2697" Scale="1.5,3,1.5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2102739340" Variation="6" Position="140.0642,173.3498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="654945213" Variation="1" Position="159.4736,182.47,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="765735746" Variation="3" Position="123.628,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="546171147" Variation="3" Position="125.038,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="372948140" Variation="6" Position="128.5642,173.3498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1686762939" Position="68.58,113.4006,8" Rotation="1.658" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1890582901" Variation="3" Position="138.2036,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1013783267" Variation="3" Position="138.1987,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1068756446" Variation="3" Position="134.477,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2107862736" Variation="6" Position="151.5078,152.2192,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1439889008" Variation="3" Position="136.718,241.6838,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="967335949" Variation="6" Position="117.2114,46.4477,8.2697" Scale="1.5,3,1.5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="777936841" Variation="6" Position="128.562,60.5498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="511022342" Variation="3" Position="131.3366,249.7404,14.2072" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1165949084" Variation="3" Position="124.1022,233.637,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1442787153" Variation="3" Position="130.6333,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2012984402" Variation="6" Position="105.702,145.15,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="862781684" Position="72.1611,147.668,8" Rotation="1.3088" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1804383247" Variation="3" Position="132.1098,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1353811566" Variation="3" Position="126.6323,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1758604218" Position="179.093,163.3623,8" Rotation="5.0263" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="2111762057" Position="159.47,138.7856,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1819086225" Position="95.417,209.3535,8" Rotation="1.0908" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1634768057" Variation="6" Position="117.0942,166.2998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1696788754" Position="89.9,46.8254,8" Rotation="2.007" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1737987844" Position="185.22,102.9785,8" Rotation="4.468" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1910992848" Variation="3" Position="127.402,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1815873963" Variation="3" Position="125.0935,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1827529367" Variation="3" Position="130.1257,232.4482,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1064053758" Position="129.38,226.16,8" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1612236666" Variation="6" Position="117.0942,116.95,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="8994613" Variation="3" Position="125.648,233.637,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="875200732" Variation="3" Position="119.8332,246.2961,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="666077655" Variation="3" Position="130.6535,248.6372,13.9545" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="777643312" Variation="1" Position="114.2954,239.4462,10.3498" Rotation="5.707" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2078093006" Variation="3" Position="122.8366,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1676932628" Position="163.2966,212.9357,7.7844" Rotation="1.4833" Scale="1,2,1" Type="DefendersCity_Wall_Municipal">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1308742885" Variation="3" Position="124.2954,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="889262680" Position="131.743,40.23,14.9667" Rotation="0.8974" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="27319499" Variation="3" Position="135.2324,242.8835,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1509677576" Variation="3" Position="132.8894,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1094431077" Variation="3" Position="119.0605,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1326226400" Variation="3" Position="132.0864,249.7404,14.2072" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1778214825" Variation="6" Position="105.702,60.5498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="397610106" Position="84.066,182.4167,8" Rotation="1.1867" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="563903791" Variation="3" Position="121.346,244.09,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1281559848" Variation="6" Position="117.0942,194.5,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="880200683" Variation="3" Position="122.1152,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1136617749" Variation="3" Position="130.9052,232.4482,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="458895807" Variation="3" Position="129.2021,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1873404799" Variation="3" Position="124.3466,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="826785292" Position="187.7553,121.3625,8" Rotation="4.7121" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1781661170" Variation="2" Position="191.396,245.3542,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="1214557537" Variation="3" Position="127.898,234.8447,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1964160670" Variation="6" Position="128.562,102.8498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1546851990" Position="97.538,69.5805,7.9997" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="580882779" Variation="3" Position="137.4538,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="668623688" Variation="1" Position="128.2775,242.6962,12.3371" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1195785426" Variation="3" Position="124.3515,248.6687,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1145081166" Variation="3" Position="121.375,242.8933,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="568543603" Variation="6" Position="105.702,95.7998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2125263506" Position="159.4658,82.41,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1614686213" Variation="3" Position="130.651,247.4548,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="898064442" Variation="3" Position="131.6518,234.8447,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2118662244" Variation="3" Position="125.0866,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1826881297" Position="180.732,87.2424,8" Rotation="4.4155" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="395011258" Position="93.157,39.4916,8" Rotation="2.0332" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1372092418" Position="159.47,110.7785,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="754381206" Variation="3" Position="127.1833,233.6477,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="738904937" Variation="3" Position="126.3625,229.9497,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="811701689" Variation="3" Position="132.1193,247.4548,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1545868446" Variation="3" Position="127.3947,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1668779007" Variation="6" Position="117.0942,145.15,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2029291668" Variation="6" Position="151.5051,74.6655,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="943117558" Variation="3" Position="124.8818,233.637,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="824261197" Variation="3" Position="130.084,229.9604,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="564637948" Variation="3" Position="123.6147,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2043014492" Variation="3" Position="131.352,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="493959937" Position="177.3381,168.5517,8" Rotation="5.044" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1779582576" Variation="3" Position="126.642,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="546307629" Variation="3" Position="119.0341,244.09,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="736200571" Position="85.872,212.8603,7.7797" Rotation="1.658" Scale="1,2,1" Type="DefendersCity_Wall_Municipal">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1239741138" Variation="3" Position="130.912,231.1557,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1151568237" Variation="3" Position="132.1533,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="157965458" Position="132.13,226.0498,8" Rotation="6.2307" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="59882084" Position="165.0212,200.988,8" Rotation="5.1572" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1840162798" Variation="3" Position="131.4213,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="756600558" Variation="6" Position="151.5051,109.9155,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1625275250" Variation="3" Position="119.0502,245.2014,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1452234322" Variation="3" Position="119.0634,242.8933,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1907624688" Variation="3" Position="129.3828,231.1557,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="726228520" Variation="3" Position="129.8933,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1514857622" Position="123.9511,40.2297,10.95" Rotation="1.5703" Scale="0.3583,0.3583,3.5" Type="PortZionBarrel" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="318594539" Variation="3" Position="123.622,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1653081076" Variation="6" Position="151.5051,131.0654,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="427350803" Variation="3" Position="135.2514,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1635171585" Position="76.907,163.3623,8" Rotation="1.2565" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="2090381575" Position="127.9377,40.23,8.0424" Rotation="0.898" Scale="0.6091,0.6091,0.509" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1994431041" Position="105.3098,221.5598,8" Rotation="0.4187" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="458070419" Variation="3" Position="138.9782,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="722296042" Position="127.9377,40.23,8.6552" Rotation="0.898" Scale="0.3088,0.3088,2" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1893917909" Variation="3" Position="124.089,235.9453,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="119238398" Variation="6" Position="140.062,60.5498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1825878292" Variation="3" Position="130.886,234.8447,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="308799241" Position="158,217.6738,8" Rotation="5.7075" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1961111227" Variation="3" Position="124.8305,229.9497,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1139281752" Variation="1" Position="128.2775,241.41,11.881" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="792885026" Position="87.8996,50.3315,7.9997" Rotation="1.9895" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="872031860" Variation="6" Position="140.062,131.0498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="330732829" Variation="3" Position="137.4367,241.6838,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1857116851" Variation="3" Position="130.1223,235.956,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1759057651" Variation="3" Position="134.4648,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="178898609" Position="168.1003,51.7124,7.9997" Rotation="4.2934" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="893373851" Position="161.7026,37.084,8" Rotation="4.241" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="150510604" Variation="6" Position="117.0942,173.3498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1547499208" Variation="3" Position="127.41,248.67,13.95" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="568284435" Variation="3" Position="136.6757,244.0803,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2140985978" Position="97.538,111.9538,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="379866377" Variation="3" Position="121.3618,245.2014,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="566789507" Variation="6" Position="117.0942,67.5998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1159418740" Variation="6" Position="105.704,166.2998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1061440194" Variation="3" Position="135.995,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="917315987" Variation="6" Position="151.5051,138.1154,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="579107904" Variation="3" Position="129.3854,233.6477,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1188958349" Position="68.2832,126.7172,8" Rotation="1.5705" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1707093539" Position="73.6403,152.8974,8" Rotation="1.2915" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="404421869" Variation="3" Position="126.4138,233.637,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="588558701" Position="127.5957,210.3837,8.0424" Rotation="0.898" Scale="0.6091,0.6091,0.509" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1985113650" Variation="3" Position="134.4821,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="776380074" Position="159.47,166.5981,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1756114473" Variation="3" Position="122.8928,248.6687,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1938547292" Variation="3" Position="131.4016,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1182126779" Position="93.157,204.508,8" Rotation="1.1081" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="315200987" Position="163.9458,203.445,8" Rotation="5.166" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="74203586" Variation="3" Position="122.859,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="491888112" Position="83.19,64.0205,8" Rotation="1.9458" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1487675621" Variation="3" Position="132.111,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2080116080" Position="178.2307,165.994,8" Rotation="5.0351" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="506755848" Position="68.9267,110.8203,8" Rotation="1.7888" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="441677109" Variation="3" Position="122.1347,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1055872188" Position="162.843,205.889,8" Rotation="5.1748" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="212021079" Position="87.8996,193.6682,7.9997" Rotation="1.1518" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1222130190" Variation="4" Position="97.538,110.5175,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="112183004" Variation="3" Position="132.9328,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1152533743" Variation="3" Position="129.1896,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1629936669" Variation="3" Position="125.0964,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="808263809" Variation="3" Position="125.876,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1711597545" Variation="1" Position="132.3317,232.63,9.2102" Rotation="0.0212" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1347006364" Variation="2" Position="159.4736,83.9853,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1953806729" Position="88.8962,47.882,8" Rotation="1.9982" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1661723765" Position="175.5004,71.6701,8" Rotation="4.3632" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="603856596" Variation="6" Position="140.062,145.15,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="667507195" Variation="3" Position="129.3342,229.9604,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1969439394" Variation="3" Position="122.882,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="263304997" Position="150.69,221.5598,8" Rotation="5.8642" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="915601730" Variation="3" Position="133.665,247.4548,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="616430554" Position="179.093,82.0185,8" Rotation="4.3981" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1947834005" Position="94.2973,35.7031,8" Rotation="2.042" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1218433467" Variation="1" Position="128.2775,247.0998,13.8713" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="250140940" Variation="3" Position="139.7443,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1664910416" Variation="3" Position="124.3371,249.772,14.2053" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="286322445" Position="171.934,183.7978,8" Rotation="5.0961" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="587853187" Variation="3" Position="129.9626,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1956135810" Position="186.47,108.19,8" Rotation="4.4853" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1863546225" Variation="6" Position="128.5642,166.2998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1276715776" Variation="3" Position="128.6667,233.6477,9.13" Rotation="3.141" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="139968048" Variation="3" Position="135.2465,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1817145530" Variation="6" Position="128.562,187.45,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="454711385" Position="179.9228,160.7617,8" Rotation="5.0175" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1712150021" Variation="1" Position="123.246,229.7397,8.2202" Rotation="6.2614" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1271393842" Variation="3" Position="133.7111,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="722088567" Position="173.7187,66.575,8" Rotation="4.3457" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1219381723" Variation="6" Position="140.062,88.75,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1995505786" Position="70.1535,138.4172,8" Rotation="1.335" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1988567659" Position="159.4777,181.0344,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1522681259" Variation="3" Position="135.2343,241.6838,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="368709222" Variation="3" Position="125.8664,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1394447964" Variation="3" Position="125.0451,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1844709187" Variation="1" Position="123.246,232.63,9.2102" Rotation="6.2614" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1070743983" Variation="3" Position="118.3107,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1497164108" Variation="6" Position="140.062,81.7,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1339126735" Variation="3" Position="126.6362,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="244510213" Variation="6" Position="105.702,53.5,7.9" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2084513912" Variation="3" Position="120.5993,241.6936,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2002723337" Position="74.4497,155.5097,8" Rotation="1.2827" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1085396361" Variation="3" Position="131.421,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="768232569" Position="70.78,141.0212,8" Rotation="1.3264" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="839270426" Variation="6" Position="151.5051,124.0156,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1984965862" Variation="3" Position="129.207,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1948021887" Variation="3" Position="139.7492,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="991294917" Position="127.8752,40.223,10.95" Rotation="1.57" Scale="0.3583,0.3583,3.5" Type="PortZionBarrel" Pitch="1.5705">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1454564224" Variation="3" Position="137.449,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="144285232" Variation="1" Position="159.4658,69.8552,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1752592408" Position="74.4497,88.49,8" Rotation="1.8586" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1553733829" Variation="6" Position="128.562,67.5998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1770283953" Variation="3" Position="131.6713,232.4482,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="564163497" Variation="1" Position="119.9182,248.0417,13.8713" Rotation="5.707" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1666323353" Position="159.47,124.6276,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1185767227" Variation="3" Position="133.716,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="740710253" Variation="3" Position="129.9621,239.1853,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1553318729" Position="162.6643,215.7167,7.7844" Rotation="4.7998" Scale="1,2,1" Type="DefendersCity_Wall_Municipal">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1192194659" Position="169.0812,54.1423,8" Rotation="4.302" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="2082326694" Variation="3" Position="133.7167,240.3806,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1522666593" Variation="3" Position="135.1826,246.2863,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1237744739" Variation="3" Position="129.16,247.45,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="792730531" Position="173.7187,178.8056,8" Rotation="5.0788" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="330704081" Position="68.2443,121.3625,8" Rotation="1.5705" Scale="1,1,1" Type="TarsonisWall2">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="817296745" Variation="1" Position="200.1767,240.428,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="2089221526" Variation="6" Position="105.702,88.75,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="269083067" Variation="3" Position="127.408,242.904,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1126985417" Variation="3" Position="138.1633,242.8835,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1992984077" Position="81.3725,67.7165,8" Rotation="1.9284" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1318869128" Variation="6" Position="151.508,173.3693,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="136064776" Position="110.4262,223.4772,8" Rotation="0.314" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1758736834" Position="124.053,40.23,14.9667" Rotation="0.898" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="823412765" Variation="3" Position="133.6555,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="779361688" Position="121.16,225.8281,8" Rotation="0.1044" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1674321602" Variation="3" Position="135.976,242.8835,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="407617964" Position="92.0541,40.5546,8" Rotation="2.0244" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="735981614" Variation="6" Position="140.0642,194.5,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="189373045" Variation="3" Position="129.911,247.4548,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="671025954" Variation="3" Position="136.735,239.196,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="625409743" Variation="3" Position="126.4111,231.145,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1325200554" Variation="6" Position="105.704,180.4,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="885243844" Variation="6" Position="105.704,173.3498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2060243702" Variation="3" Position="125.0832,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="725247949" Variation="3" Position="128.664,231.1557,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="32255010" Variation="3" Position="122.1313,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="206744101" Variation="2" Position="64.6037,245.3542,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="287084882" Position="97.538,140.1687,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1743248246" Position="161.7026,208.2966,8" Rotation="5.1835" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="2073280174" Position="174.6274,69.0974,8" Rotation="4.3544" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1736043032" Variation="3" Position="129.9572,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="867422127" Variation="3" Position="129.9135,248.6372,13.9545" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1711638671" Variation="3" Position="129.9448,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1769917704" Variation="2" Position="97.538,82.4157,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1781694997" Variation="3" Position="131.4035,241.673,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1705218198" Variation="3" Position="124.8723,232.4375,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1604063613" Position="185.8464,105.5825,8" Rotation="4.4765" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="246845178" Variation="3" Position="121.38,248.6577,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="847282147" Variation="3" Position="124.3334,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1475584961" Variation="6" Position="117.0942,74.65,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="696043671" Variation="1" Position="123.246,231.0498,8.6701" Rotation="6.2614" Scale="0.15,0.3498,0.2998" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="733490542" Position="89.9,197.1743,8" Rotation="1.1342" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1889549018" Position="123.711,210.3837,14.9667" Rotation="0.898" Scale="0.2998,0.2998,3.5" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="851385125" Variation="2" Position="159.4658,168.3234,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="908332847" Variation="3" Position="127.9138,235.956,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1829680378" Variation="3" Position="132.899,247.4548,13.5185" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1249550842" Variation="3" Position="124.8686,235.9453,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="996470589" Position="177.3381,76.8288,8" Rotation="4.3806" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1457506274" Variation="3" Position="122.1494,248.6687,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="9020047" Variation="3" Position="129.9013,245.181,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1991935246" Position="187.0732,110.8203,8" Rotation="4.4941" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="266965771" Variation="3" Position="138.9658,241.6838,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="799157298" Variation="3" Position="122.1416,240.4118,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="417744226" Position="165.0212,44.3925,8" Rotation="4.267" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="939095043" Variation="3" Position="129.3566,234.8447,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="400496915" Variation="3" Position="125.8662,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1842071182" Position="182.3596,92.4831,8" Rotation="4.433" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1199532929" Variation="1" Position="128.2775,239.8098,11.3513" Scale="0.2,0.3498,0.2995" Type="CompoundMansion_Ramp_Stairs">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="888101960" Position="169.0812,191.2382,8" Rotation="5.1223" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="902898447" Variation="6" Position="117.0942,95.7998,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1126069836" Variation="3" Position="122.8784,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="142856384" Variation="3" Position="120.5507,238.038,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="70967011" Position="93.5842,215.5004,8" Rotation="4.625" Scale="1,2,1" Type="DefendersCity_Wall_Municipal">
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="411601873" Variation="6" Position="117.0942,131.0498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="845601649" Position="97.538,168.3676,7.9997" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1230452928" Variation="1" Position="97.538,68.1413,7.9997" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="451408836" Variation="3" Position="132.1015,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1876899235" Variation="3" Position="119.84,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2056427736" Variation="3" Position="130.9018,235.956,9.7951" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="795961872" Variation="6" Position="128.562,109.9,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1191000500" Position="71.5063,143.6582,8" Rotation="1.3176" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="542935677" Variation="2" Position="214.2375,239.5551,12" Scale="1,1,1" Type="Protoss_Base_OuterWallsCurve"/>
+    <ObjectDoodad Id="2079655122" Variation="3" Position="128.6574,232.4482,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="316811838" Position="176.4113,171.1164,8" Rotation="5.0524" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="498196576" Variation="6" Position="140.062,53.5,7.9" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="169580371" Variation="2" Position="97.538,166.6433,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="841266990" Position="166.1,46.8254,8" Rotation="4.276" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="213341319" Position="187.7167,126.7172,8" Rotation="4.7121" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="380775053" Variation="3" Position="123.5766,239.2165,10.5007" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1050652219" Variation="3" Position="122.1347,249.772,14.2053" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="225535996" Position="183.1123,95.1044,8" Rotation="4.4416" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1542836815" Position="115.74,224.91,8" Rotation="0.2092" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="365814608" Variation="6" Position="105.702,187.45,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="516641534" Position="75.268,158.1381,8" Rotation="1.274" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="592646671" Variation="3" Position="125.5966,229.9497,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="702847883" Position="97.538,83.8557,8" Rotation="4.7121" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="229703750" Position="166.1,198.5551,8" Rotation="5.1486" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1353960843" Variation="6" Position="140.062,102.8498,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1363754876" Variation="3" Position="120.6091,242.8933,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1169622813" Position="85.9458,187.4094,8" Rotation="1.1691" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="73831465" Variation="3" Position="123.5698,238.0488,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="733116843" Variation="3" Position="119.8332,241.6936,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="138080590" Variation="3" Position="124.8527,234.834,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1093066096" Variation="3" Position="123.6184,249.772,14.2053" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="752364661" Variation="3" Position="130.1062,234.8447,9.48" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="17995366" Variation="3" Position="125.847,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1330980337" Variation="3" Position="135.9357,244.0803,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="831202246" Position="183.8388,147.668,8" Rotation="4.974" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="503541184" Variation="3" Position="132.8906,244.0695,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1549363468" Position="171.0012,186.2802,8" Rotation="5.105" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="722798181" Position="76.0771,83.238,8" Rotation="1.8762" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="473848391" Variation="3" Position="125.6452,231.145,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="984231587" Variation="3" Position="136.6745,245.1916,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1277874646" Variation="3" Position="97.538,152.6726,8" Rotation="1.5705" Scale="2,2,2" Type="BattleStation_Number_Decals"/>
+    <ObjectDoodad Id="1159590689" Position="82.2812,66.575,8" Rotation="1.9372" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1464779829" Position="160.583,210.7343,8" Rotation="5.1921" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1114819483" Position="80.4995,70.2893,8" Rotation="1.9196" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="238095896" Position="127.5957,210.3837,8.6552" Rotation="0.898" Scale="0.3088,0.3088,2" Type="PortZionBarrel">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="394603655" Variation="3" Position="132.1655,238.0175,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1763005300" Variation="3" Position="134.4335,248.6372,13.9545" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="HeightAbsolute" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="243745004" Variation="3" Position="125.0905,247.4863,13.5197" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="378664116" Variation="3" Position="116.852,240.4011,10.8242" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1748739538" Position="86.9187,54.1423,8" Rotation="1.9807" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="444592193" Position="82.2812,177.4248,8" Rotation="1.204" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1981074350" Position="185.8464,139.798,8" Rotation="4.948" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1052094754" Variation="3" Position="130.1325,231.1557,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1730954604" Position="76.907,80.6374,8" Rotation="1.8847" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1221906838" Variation="6" Position="128.5642,194.5,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2114717" Variation="3" Position="125.087,241.7045,11.303" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="542402164" Variation="3" Position="133.6472,246.2753,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1363757310" Variation="6" Position="105.702,124,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1528190532" Variation="6" Position="128.5642,159.25,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1791138854" Position="118.45,225.473,8" Rotation="0.157" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1997594432" Variation="3" Position="123.5988,244.1008,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2822110" Position="155.5698,219.13,8" Rotation="5.7597" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1232378807" Variation="3" Position="133.697,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1149228222" Position="163.9458,41.9355,8" Rotation="4.2585" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="96441625" Position="142.95,224.23,8" Rotation="6.0212" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="288662157" Variation="6" Position="128.562,53.5,7.9" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="30898493" Variation="3" Position="125.1013,248.6687,13.9548" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="807079170" Variation="3" Position="127.1738,232.4482,8.6687" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="555810991" Position="70.78,102.9785,8" Rotation="1.815" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="846223867" Variation="3" Position="137.3945,244.0803,12.1142" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="197977765" Variation="3" Position="122.8747,245.2121,12.4294" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1231805354" Variation="6" Position="105.704,152.2,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1641611672" Variation="3" Position="124.8791,231.145,8.19" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="431877878" Variation="3" Position="131.6296,229.9604,7.8664" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+        <Flag Index="NoDoodadFootprint" Value="1"/>
+        <Flag Index="DisableNoFlyZone" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="2045866761" Variation="3" Position="132.1513,242.8728,11.7641" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="638626867" Variation="3" Position="127.3984,246.307,12.9702" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1527954380" Variation="6" Position="151.5078,180.4191,8.2697" Scale="5,4,5" Type="BattleStation_Line_Decals">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="376401374" Position="93.1254,213.492,7.8176" Rotation="1.658" Scale="1,2,1" Type="DefendersCity_Wall_Municipal">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+    <ObjectDoodad Id="1053876625" Position="73.6403,91.1022,8" Rotation="1.8498" Scale="1,1,1" Type="TarsonisWall2"/>
+    <ObjectDoodad Id="1381650236" Position="86.4956,216.1464,8" Rotation="4.625" Scale="1,2,1" Type="DefendersCity_Wall_Municipal"/>
+    <ObjectDoodad Id="892037221" Variation="3" Position="140.5102,238.0283,10.0336" Rotation="3.1413" Scale="1,1,0.5" Type="BattleStation_BridgeSeats">
+        <Flag Index="HeightOffset" Value="1"/>
+        <Flag Index="ForcePlacement" Value="1"/>
+    </ObjectDoodad>
+</PlacedObjects>
