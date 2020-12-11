@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Preload>
 <Actor id="SYSTEM_ActorConfig"/>
-<Terrain id="HavenEx1"/>
+<Actor id="BattleStation_BridgeSeats" Variations="3"/>
+<Actor id="BattleStation_Line_Decals" Variations="6"/>
+<Actor id="BattleStation_Number_Decals" Variations="0,1,2,3,4,5"/>
+<Actor id="CompoundMansion_Ramp_Stairs" Variations="1"/>
+<Actor id="DefendersCity_Wall_Municipal" Variations="0"/>
+<Actor id="Protoss_Base_OuterWallsCurve" Variations="1,2"/>
+<Actor id="StarShipAdun_Giant_Walls" Variations="1"/>
+<Actor id="PortZionBarrel" Variations="0"/>
+<Actor id="TarsonisWall2"/>
+<Terrain id="AgriaEx1"/>
 </Preload>
